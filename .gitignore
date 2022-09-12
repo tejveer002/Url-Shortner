@@ -1,0 +1,6 @@
+
+db.sqlite3
+main/migrations/*
+main/__pycache__/*
+urlshort/__pycache__/*
+
